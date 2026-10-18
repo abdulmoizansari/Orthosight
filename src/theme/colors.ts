@@ -1,0 +1,16 @@
+﻿export const colors = {
+  navy: '#0B1F3A',
+  navyLight: '#1A3A5C',
+  teal: '#0E9F9F',
+  tealLight: '#14C4C4',
+  white: '#FFFFFF',
+  background: '#F5F7FA',
+  surface: '#FFFFFF',
+  border: '#E2E8F0',
+  textPrimary: '#0B1F3A',
+  textSecondary: '#5A6B7F',
+  textMuted: '#94A3B8',
+  error: '#DC2626',
+  warning: '#F59E0B',
+  success: '#10B981',
+};
